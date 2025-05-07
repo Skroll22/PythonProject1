@@ -28,4 +28,4 @@ new_file_name = input('Введите имя целевого файла с ра
 add_line_numbers(file_name, new_file_name)
 
 
-#print(os.getcwd())
+print(os.getcwd())
