@@ -41,7 +41,7 @@ while game:
             window[x-1][y-1] = 'O'
             bot_move = True
             break
-#ход был победным?
+#был ли ход победным?
     # ход бота
     while bot_move and any('*' in i for i in window):
         try:
