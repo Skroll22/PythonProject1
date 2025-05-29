@@ -37,7 +37,7 @@ class Right_triagle(Shape):
         self.A = side_a
         self.B = side_b
         self.C = side_c
-        self.X = "500"
+        self.X = "500" - side_c // 3
 
     def get_area(this):
         return (this.A * this.B) / 2
