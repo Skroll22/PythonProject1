@@ -1,0 +1,15 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.13 (PythonProject)\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision fd26afa937f652d3d9adf91d244325c7bd77775f)
++++ b/.idea/misc.xml	(date 1748521322775)
+@@ -3,4 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.13 (PythonProject)" />
+   </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (PythonProject)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
