@@ -59,28 +59,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.Eduson_Задание_PEP8.executor": "Run",
-    "Python.Eduson_Эталонное решение_РЕР8.executor": "Run",
-    "Python.ModulesAndFiles_WorkBook.executor": "Run",
-    "Python.Netology 1_1.executor": "Run",
-    "Python.Netology 1_2.executor": "Run",
-    "Python.Netology 2.1.executor": "Run",
-    "Python.Stepik.executor": "Run",
-    "Python.Tic-tac-toe.executor": "Run",
-    "Python.Vanya.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.workbook4.executor": "Run",
-    "Python.workbook5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/1. Учёба/0. Python разработчик/Алгоритмы",
-    "settings.editor.selected.configurable": "promo.django"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Eduson_Задание_PEP8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Eduson_Эталонное решение_РЕР8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModulesAndFiles_WorkBook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Netology 1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Netology 1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Netology 2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stepik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tic-tac-toe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vanya.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workbook4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workbook5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/1. Учёба/0. Python разработчик/Алгоритмы&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;promo.django&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\1. Учёба\0. Python разработчик\Алгоритмы" />
