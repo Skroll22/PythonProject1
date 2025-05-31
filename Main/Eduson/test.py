@@ -40,6 +40,7 @@ class Right_triagle(Shape):
         self.X = "500" - side_c // 3
         self.Y = "850"
         '''test'''
+        self.P = 'P'
         self.J = 890
 
     def get_area(this):
